@@ -1,2 +1,3 @@
 i am practicing merging of git
 written in emergency branch
+added in emergency_1
